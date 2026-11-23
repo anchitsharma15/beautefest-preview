@@ -1,9 +1,7 @@
-# Beauté Fest — client preview
+# BeauteFest review preview
 
-Preview of the current website redesign, hosted separately from beautefest.in.
+Preview: https://anchitsharma15.github.io/beautefest-preview/
 
-Website: https://anchitsharma15.github.io/beautefest-preview/
+Production stays under maintenance at https://beautefest.in/. This review repository does not publish to the production domain. Future enhancements go here for review; publish to production only after explicit user approval.
 
-Static HTML, CSS and JavaScript. Product enquiries open WhatsApp; no checkout or payment is included.
-
-Photography is from the existing Beauté Fest website. Contact the store for current products, availability and pricing.
+Editable relaunch source is preserved in anchitsharma15/beautefest on branch review/relaunch. Preview asset links pin the previously approved public source commit so the maintenance rollback does not break images.
