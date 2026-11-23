@@ -1,7 +1,9 @@
-# BeauteFest review preview
+# Beauté Fest client preview
 
-Preview: https://anchitsharma15.github.io/beautefest-preview/
+Client review: https://anchitsharma15.github.io/beautefest-preview/
 
-Production stays under maintenance at https://beautefest.in/. This review repository does not publish to the production domain. Future enhancements go here for review; publish to production only after explicit user approval.
+A static, multi-page beauty website with dedicated skincare, cosmetics, fragrance, makeup-studio, bridal, ring-ceremony, party, artist, store and enquiry pages. Product enquiries and appointment requests go to WhatsApp +91 99141 93973. No checkout or payments.
 
-Editable relaunch source is preserved in anchitsharma15/beautefest on branch review/relaunch. Preview asset links pin the previously approved public source commit so the maintenance rollback does not break images.
+This repository publishes the preview only. Production beautefest.in is separate and remains under maintenance.
+
+Open locally with `python3 -m http.server 8087` from the repository root. The site uses editorial.css and editorial.js with locally hosted fonts and media. See MEDIA-SOURCES.txt for Reel sources.

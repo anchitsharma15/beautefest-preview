@@ -1,0 +1,16 @@
+BeauteFest preview media sources
+
+Existing brand artwork and product/store photos are retained from the approved BeauteFest preview.
+Artist portrait and experience certificate were retained from the owner-supplied assets in the BeauteFest relaunch source, commit 6ca809d77157780846eaf0749ea285a2b4696375.
+Portrait photography: LifeShots. Makeup: BeauteFest.
+
+Public Reels from the BeauteFest Instagram account, retrieved 23 November 2026:
+https://www.instagram.com/beaute_fest/reel/DfrkFTgOZcu/ — store introduction, homepage and artist backgrounds
+https://www.instagram.com/beaute_fest/reel/DfkE_H1us0f/ — skincare advice, skincare page background
+https://www.instagram.com/beaute_fest/reel/DfUudvbveCZ/ — cushion-foundation demonstration, cosmetics page background
+
+Background clips are locally hosted, silent, compressed excerpts (up to 18 seconds). Full Reel links remain available next to each clip. Poster images come from the corresponding Reel.
+
+Typography: Cormorant Garamond and Manrope, retrieved from Google Fonts and locally hosted.
+https://fonts.google.com/specimen/Cormorant+Garamond
+https://fonts.google.com/specimen/Manrope
